@@ -1,17 +1,12 @@
 body{
     background-image: url(/assets/img/content.jpg);
-    background-size: auto;
     background-repeat: no-repeat;
-}
-img{
-    max-width: 100%;
-    margin: auto;
-    display: flex;
+    background-size: 100%;
 }
 @media (orientation: landscape) {
     body {
       background-image: url(/assets/img/pascontent.jpg);
-      background-size: auto;
       background-repeat: no-repeat;
+      background-size: 100%;
     }
   }
