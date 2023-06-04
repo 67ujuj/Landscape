@@ -1,12 +1,10 @@
 body{
     background-image: url(/assets/img/content.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
 }
 @media (orientation: landscape) {
     body {
-      background-image: url(/assets/img/pascontent.jpg);
-      background-repeat: no-repeat;
-      background-size: 100%;
+    background-image: url(/assets/img/pascontent.jpg);
+    background-repeat: no-repeat;
     }
   }

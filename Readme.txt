@@ -1,0 +1,1 @@
+Cet exercice consistait à utiliser la propriété CSS @media (orientation: landscape) afin d'afficher une image différente de l'image de base en foncttion de la taille de la fenêtre, ou de l'orientation de l'appareil (Smartphone, tablette...).
